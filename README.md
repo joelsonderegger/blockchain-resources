@@ -2,7 +2,7 @@
 
 Curated list of blockchain and general cryptocurrency resources
 
-# Table of Contents
+## Table of Contents
 
 - [Introduction](#Introduction)
 

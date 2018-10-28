@@ -51,7 +51,7 @@ Token sales yield:
 The three reasons why: 
 * [30X increase in US buyers](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
 * [20–25X increase in international buyers](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
-* [1000X improvement in time-to-liquidity](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+* [1000X improvement in time-to-liquidity](https://news.earn.com/thoughts-on-tokens-436109aabcbe) A token has a price immediately upon its sale, and that price floats freely in a global 24/7 market. This is quite different from equity. While it can take 10 years for equity to become liquid in an exit, you can in theory sell a token within 10 minutes — though founders can and should cryptographically lock up tokens to discourage short-term speculation.
 
 ### Private Keys
 What do token buyers actually buy? The essence of what they buy is a private key. For Bitcoin, this looks something like this:

@@ -1,4 +1,4 @@
-# Blockchain Resources
+# Blockchain Resources & Definitions
 
 Curated list of blockchain and general cryptocurrency resources
 

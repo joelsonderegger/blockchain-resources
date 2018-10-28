@@ -43,6 +43,16 @@ Tokens are created and distributed to the public through an Initial Coin Offerin
 ### Token Launch
 [Token launches](https://news.earn.com/thoughts-on-tokens-436109aabcbe) can be an alternative to traditional equity-based financings.
 
+### Advantages to Classic Equity Financing
+Token sales yield:
+* [>100X increase in the available base of buyers](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+* [>1000X improvement in the time to liquidity over traditional methods for startup finance](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+
+The three reasons why: 
+* [30X increase in US buyers](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+* [20–25X increase in international buyers](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+* [1000X improvement in time-to-liquidity](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+
 ### Private Keys
 What do token buyers actually buy? The essence of what they buy is a private key. For Bitcoin, this looks something like this:
 5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF

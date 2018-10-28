@@ -33,6 +33,9 @@ Different kinds of tokens:
 - Tokens based on forked chains and forked code: Ethereum Classic (based on a hard fork of the Ethereum blockchain) 
 - Tokens issued on top of the Ethereum blockchain: Golem and Gnosis
 
+### Crowd Sale
+Kickstarter-style crowdfunding in which internet users at large have the opportunity to purchase tokens.
+
 ### ICO (Initial Coin Offering)
 How are tokens created?
 Tokens are created and distributed to the public through an Initial Coin Offering (ICO)

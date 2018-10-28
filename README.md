@@ -41,7 +41,7 @@ How are tokens created?
 Tokens are created and distributed to the public through an Initial Coin Offering (ICO)
 
 ### Token Launch
-[Token launches] (https://news.earn.com/thoughts-on-tokens-436109aabcbe) can be an alternative to traditional equity-based financings.
+[Token launches](https://news.earn.com/thoughts-on-tokens-436109aabcbe) can be an alternative to traditional equity-based financings.
 
 ### Private Keys
 What do token buyers actually buy? The essence of what they buy is a private key. For Bitcoin, this looks something like this:

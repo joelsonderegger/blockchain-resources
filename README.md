@@ -44,7 +44,7 @@ Tokens are created and distributed to the public through an Initial Coin Offerin
 What do token buyers actually buy? The essence of what they buy is a private key. For Bitcoin, this looks something like this:
 5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF
 
-You can think of a private key as being similar to a password
+You can think of a private key as being similar to a password. Just like your private password grants you access to the email stored on a centralized cloud database like Gmail, your private key grants you access to the digital token stored on a decentralized blockchain database like Ethereum or Bitcoin.
 
 * [Thoughts on Tokens] (https://news.earn.com/thoughts-on-tokens-436109aabcbe)
 

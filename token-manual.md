@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Token Sale (ICO)](#Token Sale (ICO))
+- [Token Sale (ICO)](## Token Sale (ICO))
 - [Experts to follow](#Experts to follow)
 
 ## Token Sale (ICO)
